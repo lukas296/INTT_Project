@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  background-image: url('../media/background.jpg');
+	background-attachment: fixed;
+	/* margin: 0px auto; */
+	border: 5px solid black;
+	/* font-family: Verdana, Arial; */
+}
+
+#main {
+	margin: 30px auto;
+	text-align: left;
+	border: 5px solid white;
+	/* width: 811px; */
+	width: 60%;
+	/* height: 10000px; */
+	background-color: orange;
+}
+
+#trailer {
+	margin: 0px auto;
+	border: 0px solid green;
+	/*width: 100%;
+	height: 100%;*/
+	text-align: center;
+	padding: 0px;
+}
+
+/* Box für das obere Menü */
+#menuetop{
+	border: 0px solid #036;
+	background-color: #eb0a1c;
+	height: 31px;
+}
+
+/* Der Seitentitel nochmal unterhalb des Menüs */
+/* #titel {
+	border: 0px solid blue;
+	padding-top: 15px;
+	height: 50px;
+	text-align: center;
+	font-weight: bold;
+} */
+
+/* Box für den eigentlichen Content */
+/* #content {
+ 	border: 0px solid black;
+	margin-left: 15px;
+	margin-right: 15px;
+} */
+
+/* Das untere Menü */
+/* #menuefooter{
+	clear: both;
+	border: 0px solid green;
+	height: 34px;
+	text-color: #96988B;
+	text-align: center;
+	line-height: 30px;
+	margin-top: 10px;
+	background-color: #B8DB7D;
+	font-size : 12px;
+	font-family : Verdana;
+	font-weight : bold;
+	font-style : normal;
+	color : #00000;
+} */
+
+/* #menufooter a {
+	text-decoration: none;
+	color: #ea0a8c;
+	} */
+
+/* #menufooter a:hover {
+	text-decoration: underline;
+	color: #ab0a1c;
+	} */
+
+/* Der Platzhalter unter dem unteren Menü */
+/* #bottom{
+	border: 0px solid grey;
+	height: 20px;
+	} */
+
+
+/* Formatierungen für die Inhaltselemente */
+/* .bodytext {
+	font-size: 11pt;
+	}
+
+p.bodytext {
+	background-color: #FFFFFF; padding: 2px 4px 2px 4px; border: 1px solid #D8DB7D;} */

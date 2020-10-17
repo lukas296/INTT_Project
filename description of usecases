@@ -6,3 +6,10 @@ Apps:
 Verwaltung:
 -Stationen
 -Produkte
+
+Datenbanken:
+-Stationen
+-Produkte
+-Verkauf
+-Lieferung
+-Lagervorräte
