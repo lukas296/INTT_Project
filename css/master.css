@@ -1,92 +1,56 @@
 body {
-  text-align: center;
-  background-image: url('../media/background.jpg');
+  background-image: url('../media/bg.jpg');
 	background-attachment: fixed;
-	/* margin: 0px auto; */
-	border: 5px solid black;
-	/* font-family: Verdana, Arial; */
-}
-
-#main {
-	margin: 30px auto;
-	text-align: left;
-	border: 5px solid white;
-	/* width: 811px; */
-	width: 60%;
-	/* height: 10000px; */
-	background-color: orange;
-}
-
-#trailer {
 	margin: 0px auto;
-	border: 0px solid green;
-	/*width: 100%;
-	height: 100%;*/
-	text-align: center;
-	padding: 0px;
+	border: 5px solid black;
+  text-align: left;
+  font-family: Calibri;
 }
 
-/* Box für das obere Menü */
-#menuetop{
-	border: 0px solid #036;
-	background-color: #eb0a1c;
-	height: 31px;
+#foreground {
+  margin-top: 3%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+  border: 5px solid white;
+	width: 70%;
+  background-color: #9eafca;
 }
 
-/* Der Seitentitel nochmal unterhalb des Menüs */
-/* #titel {
-	border: 0px solid blue;
-	padding-top: 15px;
-	height: 50px;
-	text-align: center;
-	font-weight: bold;
-} */
+header {
+  height: 310px;
+}
 
-/* Box für den eigentlichen Content */
-/* #content {
- 	border: 0px solid black;
-	margin-left: 15px;
-	margin-right: 15px;
-} */
+#menubar {
+  margin: 0px auto;
+  padding: 5px 5px;
+  /* padding-top: 7px; */
+  border-top: 5px solid white;
+	border-bottom: 5px solid white;
+  background-color: #0c09bf;
+  height: 35px;
+  font-size: 18pt;
+  color: white;
+}
 
-/* Das untere Menü */
-/* #menuefooter{
-	clear: both;
-	border: 0px solid green;
-	height: 34px;
-	text-color: #96988B;
-	text-align: center;
-	line-height: 30px;
-	margin-top: 10px;
-	background-color: #B8DB7D;
-	font-size : 12px;
-	font-family : Verdana;
-	font-weight : bold;
-	font-style : normal;
-	color : #00000;
-} */
+ul li{
+  display: block;
+  float: left;
+  padding: 0px 20px 0px 0px;
+}
 
-/* #menufooter a {
-	text-decoration: none;
-	color: #ea0a8c;
-	} */
+main {
+  margin: 20px;
+  padding: 5px 10px;
+  border-left: 5px solid red;
+ 	font-size: 14pt;
+}
 
-/* #menufooter a:hover {
-	text-decoration: underline;
-	color: #ab0a1c;
-	} */
-
-/* Der Platzhalter unter dem unteren Menü */
-/* #bottom{
-	border: 0px solid grey;
-	height: 20px;
-	} */
-
-
-/* Formatierungen für die Inhaltselemente */
-/* .bodytext {
-	font-size: 11pt;
-	}
-
-p.bodytext {
-	background-color: #FFFFFF; padding: 2px 4px 2px 4px; border: 1px solid #D8DB7D;} */
+footer {
+  padding: 5px;
+  border-top: 5px solid white;
+  background-color: #0c09bf;
+  height: 30px;
+  text-align: center;
+  color: white;
+  font-size: 9pt;
+}
